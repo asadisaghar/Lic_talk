@@ -15,7 +15,7 @@ The fact that gravity treats dark and luminous mass the same gives gravitational
 
 ### Strong lensing/compound lensing
 
-### Flux-ration anomaly/Astrometric shift/Surface-brightness disturbance
+### Flux-ratio anomaly/Astrometric shift/Surface-brightness disturbance
 
 ## Radio interferometry (5)
 
@@ -26,3 +26,5 @@ The fact that gravity treats dark and luminous mass the same gives gravitational
 ## Paper I (10)
 
 ## Paper II (10)
+The results of Paper I shows that while quasar jets are suitable sources for probing the compact (non-standard) forms of dark matter substructure, more extended sources (~ 10^3 times in area) are needed to study the small-scale lensing perturbations due to the presence of -far less concentrated- standard CDM subhalos. Therefore, the next best target is the dust emission from lensed star-forming galaxies, meaning mm/sub-mm wavelengths. Currently, the highest-resolution observations at this high frequency range can only be done with ALMA. The paper I have been working on focuses on sub-mm galaxies (SMGs) at z ~ 2 which are strongly lensed by a single galaxy at z ~ 0.5. I study the local and overall visibility distortions different images of a same system to derive the mass and density profile of the perturber in the lens and how the degeneracy between the two parameters can change the mass fraction and mass function of dark subhalos from a sample of detections of this kind.
+
