@@ -94,3 +94,15 @@ __Comparison between Paper II and Paper I in targeted lens systems and method:__
   - we are not after probing the mass function of surface DM mass density in subhalos, rather focus on single subhalo detection limits and the degeneracy between the subhalo parameters (mass, density slope, position), and those of the main lens
   - in Paper II we combine the two effects of secondary lensing into multiple images into account, i.e. the local surface brightness perturbation (as investigated in Paper I) in combination with the astrometric shift due to the presence of the secondary lens in the system changing the solution of the main lens.
 
+__Halo substructure/CDM density profiles:__
+
+- According to observational data: the single–parameter (cored) singular isothermal sphere (ellipsoid) profile provides an acceptable lens model for the __mean__ dark matter halo of galaxies.
+    * 
+- According to N-body simulations: the __universal__ density profiles of field halos in CDM simulations can be reasonably well described by the NFW profile where mass density decreases as r^-3 close to the center and r^-1 in outer regions. One more flexible (3-parameter profile) is the _Einasto_  profiles that is a 3-D generalization of the Sersic pforile for the surface brightness profile of elleptical galaxies.
+    * NFW density diverges centrally
+    * Einasto gives a finite (zero) central slope
+    * Einasto index parameterize the shape parameter (or how curved the density profile is)
+    * N-body simulations cannot resolve the two in central regions of DM halos
+    * Another way to relax the third parameter is the generalized NFW profile
+
+
