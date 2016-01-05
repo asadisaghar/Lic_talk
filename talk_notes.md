@@ -82,3 +82,10 @@ __Discussion__
 ## Paper II (10)
 The results of Paper I shows that while quasar jets are suitable sources for probing the compact (non-standard) forms of dark matter substructure, more extended sources (~ 10^3 times in area) are needed to study the small-scale lensing perturbations due to the presence of -far less concentrated- standard CDM subhalos. Therefore, the next best target is the dust emission from lensed star-forming galaxies, meaning mm/sub-mm wavelengths. Currently, the highest-resolution observations at this high frequency range can only be done with ALMA. The paper I have been working on focuses on sub-mm galaxies (SMGs) at z ~ 2 which are strongly lensed by a single galaxy at z ~ 0.5. I study the local and overall visibility distortions different images of a same system to derive the mass and density profile of the perturber in the lens and how the degeneracy between the two parameters can change the mass fraction and mass function of dark subhalos from a sample of detections of this kind.
 
+The difference between Paper II and Paper I in targeted lens systems and method is:
+  - more extended sources at mm wavelength (SMG instead of radio jets)
+  - emphasis on CDM substructure rather than other forms of dark subhalos
+  - modeling simulated data on the (u,v) plane rather than the image plane (as we did in Paper I) which is the suitable approach for RI data/simulations due to errors being uncorrelated on the (u,v) plane
+  - we are not after probing the mass function of surface DM mass density in subhalos, rather focus on single subhalo detection limits and the degeneracy between the subhalo parameters (mass, density slope, position), and those of the main lens
+  - in Paper II we combine the two effects of secondary lensing into multiple images into account, i.e. the local surface brightness perturbation (as investigated in Paper I) in combination with the astrometric shift due to the presence of the secondary lens in the system changing the solution of the main lens.
+  - 
