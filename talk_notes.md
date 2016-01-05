@@ -109,4 +109,6 @@ __Halo substructure/CDM density profiles:__
 
 __Lensing simulations:__
 
-
+  * __source__: We model the dust continuum emission with a single Gaussian component with FWHM ≃ 0.5 − 1.0 arcsec and an unlensed flux density of 5 mJy at z = 2.0.
+  * __main lens__:The main lens is assumed to be a singular isothermal sphere the same as that in Paper I (line-of-sight velocity dispersion ~ 240 km/s). Simulations presented in this paper are all based on a lens–source configuration that in the absence of substructure would give typical magnifications μ 1 ≈ 10 for at least one of the macroimages. This is consistent with typical magnification for observed SMGs. Different lens-source alignments that satisfy this criterion has been chosen to work with
+  * __Figures__: The contour lines on all subframes show the main lens model (without substructure) down to 10% of the maximum flux density and the color map on each frame indicates the effect of a substructure (with different inner density profile in the different subframes) on the surface brightness distribution of the lensed source.
