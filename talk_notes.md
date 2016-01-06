@@ -12,7 +12,6 @@ Standard halos of the CDM model are too concentrated in the center compared to t
 
 ### Plane-of-satellites problem (1)
 
-
 ### Separate issues or fundamental challenge? (2)
 
 ## Gravitational lensing (5)
@@ -34,6 +33,15 @@ __Surface brightness perturbations:__
 Another approach to detecting substructure lensing is small-scale morphology distortions of one of the macroimages of the same light source. Thses surface brightness distortions can be distinguished from the internal source morphology by the characteristic that they are present themselves in one macroimage while source morphology is replicated in all lensed images of the sour. The lensing effects produced by halo substructures can be separated from intrinsic morphological features in jets, since the latter would be reproduced in all macroimages whereas dark matter clumps in the halo of the lens would affect each macroimage differently. Effects of this type tend to be sensitive to the inner density profile (central mass concentration) of the lens substructure. This is the main question we are addressing in Paper II.
 
 ## Radio interferometry (5)
+A radio interferometer is an array of radio antennas or ‘elements’ that are used in astronomical observations simultaneously to simulate a discretely-sampled single telescope of very large aperture. To put it another way, a radio interferometer can be thought of as a single telescope with a very large and incompletely-filled aperture, of maximum size equivalent to the maximum spacing, or baseline, between any two of its component elements. This large ‘synthesized’ aperture is only sampled at the locations at which an element exists, and this is aided by the rotation of the Earth which effectively moves the elements within it, hence increasing the sampling. This is known as ‘Earth rotation aperture synthesis’. The size of the synthesized aperture dictates the resolution or ‘beam size’ of the array; the larger the aperture, the smaller the resolution.
+
+__2element figure__
+
+The basic interferometer is a pair of radio telescopes whose voltage outputs are correlated (multiplied and averaged). Even the most elaborate interferometers with N2 elements can be treated as N(N−1)2 independent interferometer pairs. 
+
+The figure shows two identical dishes separated by a baseline vector of length b.  Both dishes are pointing in the direction specified by s.  Plane waves from a distant point source in this direction must travel an extra distance b.s=bcos(theta) to reach antenna 1, so the output of antenna 1 is the same as that of antenna 2, but it lags by the geometric delay. The correlator first multiplies these two voltages to yield the product and then takes a time average long enough (depending on observing frequency) to remove the high-frequency term from the final output R. 
+  -The amplitudes V1 and V2 are proportional to the electric field produced by the source multiplied by the the voltage gains of antennas 1 and 2.  Thus the output amplitude V22 is proportional to the point-source flux density S multiplied by (A1*A2)^1/2, where A1 and A2 are the effective collecting areas of the two antennas. 
+  -The correlator output voltage R=(V2^2)cos(g) varies sinusoidally with the change of source direction in the interferometer frame.  These sinusoids are called fringes.The fringe period corresponds to an angular change LAMBDA/(bsin(theta)). The fringe phase is an exquisitely sensitive measure of source position if the projected baseline bsin is many wavelengths long.
 
 ### Maximum baseline
 
